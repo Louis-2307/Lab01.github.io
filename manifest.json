@@ -1,8 +1,8 @@
 {
   "name": "my-new-pwa",
   "short_name": "my-new-pwa",
-  "start_url": "https://dev.localhost",
-  "display": "standalone",
+  "start_url": "https://github.com/Louis-2307/Lab01.git",
+  "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#fff",
   "theme_color": "#000",
