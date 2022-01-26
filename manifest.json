@@ -41,7 +41,7 @@
     }
   ],
   "share_target": {
-    "action": "/",
+    "action": "https://louis-2307.github.io/Lab01.github.io/",
     "method": "GET",
     "params": {
       "title": "title",
