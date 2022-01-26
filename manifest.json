@@ -1,7 +1,7 @@
 {
   "name": "my-new-pwa",
   "short_name": "my-new-pwa",
-  "start_url": "https://github.com/Louis-2307/Lab01.github.io",
+  "start_url": "https://louis-2307.github.io/Lab01.github.io/",
   "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#fff",
